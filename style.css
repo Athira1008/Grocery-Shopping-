@@ -1,0 +1,65 @@
+body{
+    font: 20px/1.6 'Roboto',sans-serif;
+}
+.container-fluid{ 
+   
+    padding: 0 ;
+    margin: 0;
+}
+h1{
+    font-size: 40px;
+    background-color: #1B5E20;
+    color: white;
+    font-weight: 800;
+    padding: 40px 0 20px;
+    text-transform: uppercase;
+}
+#submit{
+    margin:25px ;
+    border-radius: 30px;
+    font-size: 15px;
+    padding: 20px;
+    color: greenyellow;
+    font-weight: 700;
+    background-image: linear-gradient(to right,#F44336 ,#E91E63);
+    border: none;
+    
+}
+#submit:hover{
+    color: greenyellow;
+    font-weight: 800;
+    background-image: linear-gradient(to bottom,#9C27B0 ,#E91E63);
+    border: none;
+}
+#groceryList{
+    text-align: center;
+    width: 100%;
+    
+}
+table{
+    display: table;
+    width: 100%;
+    border: 2px solid #009688;
+    text-align: center;
+    background:#f9f9f9;
+    
+}
+
+th{
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 600;
+    background: #009688;
+}
+th,
+td{
+    padding: 15px;
+    text-align: left;
+    vertical-align: middle;
+    
+}
+
+td{
+    border-bottom: 1px solid #009699;
+    font-size: 15px;
+}

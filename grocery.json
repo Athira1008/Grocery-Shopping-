@@ -1,0 +1,83 @@
+[
+        {
+            "SerialNo":"1",
+            "ItemName":"Mask",
+            "Quantity" :"4",
+            "Unit":"No",
+            "Department":"Health",
+            "Notes":"By reusable mask"  
+        },
+        {
+            "SerialNo":"2",
+            "ItemName":"Towel",
+            "Quantity" :"4",
+            "Unit":"No",
+            "Department":"Health",
+            "Notes":"White color Cotton Towel"  
+        },
+        {
+            "SerialNo":"3",
+            "ItemName":"Oil",
+            "Quantity" :"4",
+            "Unit":"Litre",
+            "Department":"Food",
+            "Notes":"Buy Gold Winner Sunflower Oil"  
+        },
+        {
+            "SerialNo":"4",
+            "ItemName":"Vegetables",
+            "Quantity" :"4",
+            "Unit":"Kilogram",
+            "Department":"Food",
+            "Notes":"Leafy Vegetables-Red Spinach ,Brokkoli"  
+        },
+        {
+            "SerialNo":"5",
+            "ItemName":"Sanitizer",
+            "Quantity" :"4",
+            "Unit":"No",
+            "Department":"Health",
+            "Notes":"Buy LifeBoy Sanitizer"  
+        },
+        {
+            "SerialNo":"6",
+            "ItemName":"Biscuit",
+            "Quantity" :"2",
+            "Unit":"No",
+            "Department":"Food-Items",
+            "Notes":"UNIBIC Cookies  "  
+        },
+        {
+            "SerialNo":"7",
+            "ItemName":"Drawing Book",
+            "Quantity" :"2",
+            "Unit":"No",
+            "Department":"Stationery",
+            "Notes":"Good paper quality"  
+        },
+        {
+            "SerialNo":"8",
+            "ItemName":"Water Color",
+            "Quantity" :"1 Packet",
+            "Unit":"No",
+            "Department":"Stationery",
+            "Notes":"Buy camlin water color tube"  
+        },
+        {
+            "SerialNo":"9",
+            "ItemName":"Coffe Mug",
+            "Quantity" :"6",
+            "Unit":"No",
+            "Department":"Stationery",
+            "Notes":"White color ceramic coffee mug"  
+        },
+        {
+            "SerialNo":"10",
+            "ItemName":"Soap",
+            "Quantity" :"4",
+            "Unit":"No",
+            "Department":"Health Products",
+            "Notes":"Santoor Soap"  
+        }
+    ]
+
